@@ -22,7 +22,6 @@ Installers:
   AppsAndFeaturesEntries:
   - DisplayName: Matteshot
     Publisher: Southbound Software
-    DisplayVersion: 0.21.0
     ProductCode: '{8B1F3C52-9D14-4A6E-B7E0-52A32C1D9F41}_is1'
 ManifestType: installer
 ManifestVersion: 1.12.0
